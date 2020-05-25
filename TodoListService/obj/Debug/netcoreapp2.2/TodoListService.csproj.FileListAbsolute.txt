@@ -1,0 +1,42 @@
+C:\Users\sandervd\source\repos\active-directory-aspnetcore-webapp-openidconnect-v2\4-WebApp-your-API\TodoListService\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\sandervd\source\repos\active-directory-aspnetcore-webapp-openidconnect-v2\4-WebApp-your-API\TodoListService\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\sandervd\source\repos\active-directory-aspnetcore-webapp-openidconnect-v2\4-WebApp-your-API\TodoListService\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\sandervd\source\repos\active-directory-aspnetcore-webapp-openidconnect-v2\4-WebApp-your-API\TodoListService\bin\Debug\netcoreapp2.2\TodoListService.deps.json
+C:\Users\sandervd\source\repos\active-directory-aspnetcore-webapp-openidconnect-v2\4-WebApp-your-API\TodoListService\bin\Debug\netcoreapp2.2\TodoListService.runtimeconfig.json
+C:\Users\sandervd\source\repos\active-directory-aspnetcore-webapp-openidconnect-v2\4-WebApp-your-API\TodoListService\bin\Debug\netcoreapp2.2\TodoListService.runtimeconfig.dev.json
+C:\Users\sandervd\source\repos\active-directory-aspnetcore-webapp-openidconnect-v2\4-WebApp-your-API\TodoListService\bin\Debug\netcoreapp2.2\TodoListService.dll
+C:\Users\sandervd\source\repos\active-directory-aspnetcore-webapp-openidconnect-v2\4-WebApp-your-API\TodoListService\bin\Debug\netcoreapp2.2\TodoListService.pdb
+C:\Users\sandervd\source\repos\active-directory-aspnetcore-webapp-openidconnect-v2\4-WebApp-your-API\TodoListService\bin\Debug\netcoreapp2.2\Microsoft.Identity.Web.dll
+C:\Users\sandervd\source\repos\active-directory-aspnetcore-webapp-openidconnect-v2\4-WebApp-your-API\TodoListService\bin\Debug\netcoreapp2.2\Microsoft.Identity.Web.pdb
+C:\Users\sandervd\source\repos\active-directory-aspnetcore-webapp-openidconnect-v2\4-WebApp-your-API\TodoListService\obj\Debug\netcoreapp2.2\TodoListService.csprojAssemblyReference.cache
+C:\Users\sandervd\source\repos\active-directory-aspnetcore-webapp-openidconnect-v2\4-WebApp-your-API\TodoListService\obj\Debug\netcoreapp2.2\TodoListService.RazorAssemblyInfo.cache
+C:\Users\sandervd\source\repos\active-directory-aspnetcore-webapp-openidconnect-v2\4-WebApp-your-API\TodoListService\obj\Debug\netcoreapp2.2\TodoListService.RazorAssemblyInfo.cs
+C:\Users\sandervd\source\repos\active-directory-aspnetcore-webapp-openidconnect-v2\4-WebApp-your-API\TodoListService\obj\Debug\netcoreapp2.2\TodoListService.AssemblyInfoInputs.cache
+C:\Users\sandervd\source\repos\active-directory-aspnetcore-webapp-openidconnect-v2\4-WebApp-your-API\TodoListService\obj\Debug\netcoreapp2.2\TodoListService.AssemblyInfo.cs
+C:\Users\sandervd\source\repos\active-directory-aspnetcore-webapp-openidconnect-v2\4-WebApp-your-API\TodoListService\obj\Debug\netcoreapp2.2\TodoListService.RazorTargetAssemblyInfo.cache
+C:\Users\sandervd\source\repos\active-directory-aspnetcore-webapp-openidconnect-v2\4-WebApp-your-API\TodoListService\obj\Debug\netcoreapp2.2\TodoListService.csproj.CopyComplete
+C:\Users\sandervd\source\repos\active-directory-aspnetcore-webapp-openidconnect-v2\4-WebApp-your-API\TodoListService\obj\Debug\netcoreapp2.2\TodoListService.dll
+C:\Users\sandervd\source\repos\active-directory-aspnetcore-webapp-openidconnect-v2\4-WebApp-your-API\TodoListService\obj\Debug\netcoreapp2.2\TodoListService.pdb
+C:\Users\sandervd\source\repos\active-directory-aspnetcore-webapp-openidconnect-v2\4-WebApp-your-API\TodoListService\obj\Debug\netcoreapp2.2\TodoListService.csproj.CoreCompileInputs.cache
+C:\Users\sandervd\source\repos\active-directory-aspnetcore-webapp-openidconnect-v2\4-WebApp-your-API\TodoListService\obj\Debug\netcoreapp2.2\TodoListService.genruntimeconfig.cache
+C:\Users\sandervd\source\repos\active-directory-aspnetcore-webapp-openidconnect-v2 old\4-WebApp-your-API\TodoListService\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\sandervd\source\repos\active-directory-aspnetcore-webapp-openidconnect-v2 old\4-WebApp-your-API\TodoListService\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\sandervd\source\repos\active-directory-aspnetcore-webapp-openidconnect-v2 old\4-WebApp-your-API\TodoListService\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\sandervd\source\repos\active-directory-aspnetcore-webapp-openidconnect-v2 old\4-WebApp-your-API\TodoListService\bin\Debug\netcoreapp2.2\TodoListService.deps.json
+C:\Users\sandervd\source\repos\active-directory-aspnetcore-webapp-openidconnect-v2 old\4-WebApp-your-API\TodoListService\bin\Debug\netcoreapp2.2\TodoListService.runtimeconfig.json
+C:\Users\sandervd\source\repos\active-directory-aspnetcore-webapp-openidconnect-v2 old\4-WebApp-your-API\TodoListService\bin\Debug\netcoreapp2.2\TodoListService.runtimeconfig.dev.json
+C:\Users\sandervd\source\repos\active-directory-aspnetcore-webapp-openidconnect-v2 old\4-WebApp-your-API\TodoListService\bin\Debug\netcoreapp2.2\TodoListService.dll
+C:\Users\sandervd\source\repos\active-directory-aspnetcore-webapp-openidconnect-v2 old\4-WebApp-your-API\TodoListService\bin\Debug\netcoreapp2.2\TodoListService.pdb
+C:\Users\sandervd\source\repos\active-directory-aspnetcore-webapp-openidconnect-v2 old\4-WebApp-your-API\TodoListService\bin\Debug\netcoreapp2.2\Microsoft.Identity.Web.dll
+C:\Users\sandervd\source\repos\active-directory-aspnetcore-webapp-openidconnect-v2 old\4-WebApp-your-API\TodoListService\bin\Debug\netcoreapp2.2\Microsoft.Identity.Web.pdb
+C:\Users\sandervd\source\repos\active-directory-aspnetcore-webapp-openidconnect-v2 old\4-WebApp-your-API\TodoListService\obj\Debug\netcoreapp2.2\TodoListService.csprojAssemblyReference.cache
+C:\Users\sandervd\source\repos\active-directory-aspnetcore-webapp-openidconnect-v2 old\4-WebApp-your-API\TodoListService\obj\Debug\netcoreapp2.2\TodoListService.csproj.CoreCompileInputs.cache
+C:\Users\sandervd\source\repos\active-directory-aspnetcore-webapp-openidconnect-v2 old\4-WebApp-your-API\TodoListService\obj\Debug\netcoreapp2.2\TodoListService.RazorAssemblyInfo.cache
+C:\Users\sandervd\source\repos\active-directory-aspnetcore-webapp-openidconnect-v2 old\4-WebApp-your-API\TodoListService\obj\Debug\netcoreapp2.2\TodoListService.RazorAssemblyInfo.cs
+C:\Users\sandervd\source\repos\active-directory-aspnetcore-webapp-openidconnect-v2 old\4-WebApp-your-API\TodoListService\obj\Debug\netcoreapp2.2\TodoListService.AssemblyInfoInputs.cache
+C:\Users\sandervd\source\repos\active-directory-aspnetcore-webapp-openidconnect-v2 old\4-WebApp-your-API\TodoListService\obj\Debug\netcoreapp2.2\TodoListService.AssemblyInfo.cs
+C:\Users\sandervd\source\repos\active-directory-aspnetcore-webapp-openidconnect-v2 old\4-WebApp-your-API\TodoListService\obj\Debug\netcoreapp2.2\TodoListService.RazorTargetAssemblyInfo.cache
+C:\Users\sandervd\source\repos\active-directory-aspnetcore-webapp-openidconnect-v2 old\4-WebApp-your-API\TodoListService\obj\Debug\netcoreapp2.2\TodoListService.csproj.CopyComplete
+C:\Users\sandervd\source\repos\active-directory-aspnetcore-webapp-openidconnect-v2 old\4-WebApp-your-API\TodoListService\obj\Debug\netcoreapp2.2\TodoListService.dll
+C:\Users\sandervd\source\repos\active-directory-aspnetcore-webapp-openidconnect-v2 old\4-WebApp-your-API\TodoListService\obj\Debug\netcoreapp2.2\TodoListService.pdb
+C:\Users\sandervd\source\repos\active-directory-aspnetcore-webapp-openidconnect-v2 old\4-WebApp-your-API\TodoListService\obj\Debug\netcoreapp2.2\TodoListService.genruntimeconfig.cache
