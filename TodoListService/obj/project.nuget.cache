@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "8YonTDmOsQ5jl+GKtfJhq9y30876bFOisS7RklkB0rN4YCoJNqywjy0ipm8ovg+dUgz3IxuwQdBgav9eKUBWzw==",
+  "dgSpecHash": "DyxnFMUbvRpV1hIDIB/HzfNkspSQsm8jOn2ym03HrHi8DLz2jvUewsxr5a5es8kDbbfGMxYlP28MvLqKy5EhOQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\sandervd\\source\\repos\\active-directory-aspnetcore-webapp-openidconnect-v2 old\\4-WebApp-your-API\\TodoListService\\TodoListService.csproj",
   "expectedPackageFiles": [

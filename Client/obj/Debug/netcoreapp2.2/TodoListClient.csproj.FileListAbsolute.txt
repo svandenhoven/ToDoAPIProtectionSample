@@ -84,3 +84,4 @@ C:\Users\sandervd\source\repos\active-directory-aspnetcore-webapp-openidconnect-
 C:\Users\sandervd\source\repos\active-directory-aspnetcore-webapp-openidconnect-v2 old\4-WebApp-your-API\Client\obj\Debug\netcoreapp2.2\TodoListClient.dll
 C:\Users\sandervd\source\repos\active-directory-aspnetcore-webapp-openidconnect-v2 old\4-WebApp-your-API\Client\obj\Debug\netcoreapp2.2\TodoListClient.pdb
 C:\Users\sandervd\source\repos\active-directory-aspnetcore-webapp-openidconnect-v2 old\4-WebApp-your-API\Client\obj\Debug\netcoreapp2.2\TodoListClient.genruntimeconfig.cache
+C:\Users\sandervd\source\repos\active-directory-aspnetcore-webapp-openidconnect-v2 old\4-WebApp-your-API\Client\bin\Debug\netcoreapp2.2\libman.json

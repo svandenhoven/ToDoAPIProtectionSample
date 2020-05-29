@@ -69,7 +69,8 @@ namespace TodoListService.Controllers
             if (scpClaims.Count() > 0)
                 scopes = scpClaims.FirstOrDefault().Value.Split(" ");
 
-            if (scopes == null || !scopes.Contains("ToDo.Read"))
+            //check for scopes. If no scopes we assume it is application permission access_token
+            if (scopes == null)
             {
                 if (User.IsInRole("Todo.Read.All"))
                 {
@@ -82,20 +83,39 @@ namespace TodoListService.Controllers
                     return Forbid();
                 }
             }
+            else
+            {
+                if (scopes.Contains("ToDo.Read") || scopes.Contains("ToDo.Write"))
+                {
+                    if (!(User.IsInRole("Writer") || User.IsInRole("Reader")))
+                    {
+                        return Unauthorized();
+                    }
 
-            //Return only the items from the user in the Access_Token
-            string owner = User.Identity.Name;
-            var oidClaims = User.Claims.Where(c => c.Type == "oid");
-            if (oidClaims.Count() > 0)
-                owner = oidClaims.FirstOrDefault().Value;
+                    //Return only the items from the user in the Access_Token
+                    string owner = User.Identity.Name;
+                    var oidClaims = User.Claims.Where(c => c.Type == "oid");
+                    if (oidClaims.Count() > 0)
+                        owner = oidClaims.FirstOrDefault().Value;
 
-            return Ok(TodoStore.Values.Where(x => x.Owner == owner));
+                    return Ok(TodoStore.Values.Where(x => x.Owner == owner));
+                }
+                else
+                {
+                    return Forbid();
+                }
+            }
         }
 
         // GET: api/values
         [HttpGet("{id}", Name = "Get")]
         public ActionResult<Todo> Get(int id)
         {
+            if (!(User.IsInRole("Writer") || User.IsInRole("Reader")))
+            {
+                return Unauthorized();
+            }
+
             //get scopes from token
             string[] scopes = null;
             var scpClaims = User.Claims.Where(c => c.Type == "scp");
@@ -124,6 +144,11 @@ namespace TodoListService.Controllers
         [Authorize(Policy = "ToDo.Write")]
         public ActionResult Delete(int id)
         {
+            if (!User.IsInRole("Writer"))
+            {
+                return Unauthorized();
+            }
+
             var owner = GetOid();
 
             var todo = TodoStore.Values.FirstOrDefault(x => x.Id == id);
@@ -153,6 +178,11 @@ namespace TodoListService.Controllers
         [Authorize(Policy = "ToDo.Write")]
         public IActionResult Post([FromBody] Todo todo)
         {
+            if(!User.IsInRole("Writer"))
+            {
+                return Unauthorized();
+            } 
+            
             string owner = User.Identity.Name;
             var oidClaims = User.Claims.Where(c => c.Type == "oid");
             if (oidClaims.Count() > 0)
@@ -167,9 +197,14 @@ namespace TodoListService.Controllers
 
         // PATCH api/values
         [HttpPatch("{id}")]
-        [Authorize(Policy = "ToDo.Read")]
+        [Authorize(Policy = "ToDo.Write")]
         public IActionResult Patch(int id, [FromBody] Todo todo)
         {
+            if (!User.IsInRole("Writer"))
+            {
+                return Unauthorized();
+            }
+
             if (id != todo.Id)
             {
                 return NotFound();
